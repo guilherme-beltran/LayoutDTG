@@ -1,6 +1,5 @@
 # LayoutDTG
-  Componente de DataGridView para reutilização em qualquer formulario Windows Forms. O componente foi desenvolvido na versão .Net 6
-
+  Componente de DataGridView para reutilização em qualquer formulario Windows Forms.
   As cores padrão são: 
   
 ![Layout padrão](https://github.com/guilherme-beltran/LayoutDTG/assets/14238319/b289a6df-9bda-4e67-9e2a-ffc41a582414)
